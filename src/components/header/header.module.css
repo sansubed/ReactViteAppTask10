@@ -1,0 +1,10 @@
+.header {
+  height: 4rem;
+  background-color: rgb(145, 135, 135);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  color: hsl(0 0% 100%);
+  position: sticky;
+}
